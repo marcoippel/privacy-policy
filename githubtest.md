@@ -1,24 +1,23 @@
-# Privacy Policy for [Your Chrome Plugin]
+# Privacy Policy for Github actions test
 
-**Effective Date:** [Date]
+**Effective Date:** 20/06/2024
 
 ## 1. Introduction
 
-Welcome to [Your Chrome Plugin]. We value your privacy and are committed to protecting your personal information. This Privacy Policy explains how we collect, use, and share your data when you use our Chrome plugin.
+Welcome to Github actions test. We value your privacy and are committed to protecting your personal information. This Privacy Policy explains how we collect, use, and share your data when you use our Chrome plugin.
 
 ## 2. Data Collection
 
 Our Chrome plugin collects the following user data:
 
-- [Specify the type of data collected, e.g., browsing history, user preferences, form data, etc.]
-
+- the text from your screen
 ## 3. Use of Data
 
 The data collected by our Chrome plugin is used for the following purposes:
 
-- Enhancing user experience by [describe how the data improves the plugin's functionality].
+- Enhancing user experience by anwser the questions.
 - Saving user preferences and settings for a personalized experience.
-- [Any other specific use cases relevant to your plugin].
+
 
 ## 4. Data Sharing
 
@@ -32,8 +31,8 @@ We take reasonable measures to protect your data from unauthorized access, use, 
 
 You have control over the data collected by our Chrome plugin. You can:
 
-- Access and review your data within the plugin settings.
-- Delete your data at any time by [provide instructions on how users can delete their data].
+- Not access and review your data within the plugin settings.
+- Not delete your data at any time.
 
 ## 7. Changes to This Privacy Policy
 
@@ -43,6 +42,6 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 
 If you have any questions or concerns about this Privacy Policy, please contact us at:
 
-[Your Contact Information]
+info@ippelsoft.nl
 
 By using our Chrome plugin, you agree to the terms outlined in this Privacy Policy.
